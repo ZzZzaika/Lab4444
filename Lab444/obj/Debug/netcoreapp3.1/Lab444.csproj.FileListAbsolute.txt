@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.exe
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.deps.json
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.runtimeconfig.json
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.dll
+C:\Users\Roman\source\repos\Lab444\Lab444\bin\Debug\netcoreapp3.1\Lab444.pdb
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.dll
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.pdb
+C:\Users\Roman\source\repos\Lab444\Lab444\obj\Debug\netcoreapp3.1\Lab444.genruntimeconfig.cache
